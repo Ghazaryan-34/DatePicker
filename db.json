@@ -12,6 +12,19 @@
     "HH:mm:ss": "14:50",
     "MMM YYYY": "Mar 2021",
     "MMMM YYYY": "October 2021"
+  },
+  {
+    "set::DD-MM-YYYY": "30-10-2022",
+    "DD-MM-YYYY": "10-03-2022",
+    "MM/DD/YYYY": "04/10/2022",
+    "MM/DD/YYYY HH:mm": "05/30/2022 10:10",
+    "DD-MM-YYYY HH:mm": "19-06-2022 22:10",
+    "MM/DD/YYYY HH:mm:ss": "09/20/2022 13:14:15",
+    "DD-MM-YYYY HH:mm:ss": "21-08-2022 14:16:18",
+    "HH:mm": "15:30",
+    "HH:mm:ss": "11:35",
+    "MMM YYYY": "May 2021",
+    "MMMM YYYY": "November 2021"
   }
 ]
 }
