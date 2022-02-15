@@ -1,0 +1,17 @@
+{
+"data":[
+  {
+    "set::DD-MM-YYYY": "15-02-2022",
+    "DD-MM-YYYY": "16-03-2022",
+    "MM/DD/YYYY": "04/17/2022",
+    "MM/DD/YYYY HH:mm": "04/18/2022 10:10",
+    "DD-MM-YYYY HH:mm": "19-05-2022 22:10",
+    "MM/DD/YYYY HH:mm:ss": "06/20/2022 13:14:15",
+    "DD-MM-YYYY HH:mm:ss": "21/07/2022 14:16:18",
+    "HH:mm": "05:40",
+    "HH:mm:ss": "14:50",
+    "MMM YYYY": "MAR 2021",
+    "MMMM YYYY": "OCTO 2021"
+  }
+]
+}
